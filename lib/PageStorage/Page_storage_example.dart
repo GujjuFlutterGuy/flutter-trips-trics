@@ -54,6 +54,7 @@ class _PageStorageExampleState extends State<PageStorageExample> {
   }
 }
 
+//page
 class ColorBoxPage extends StatelessWidget {
   const ColorBoxPage({Key? key}) : super(key: key);
 
